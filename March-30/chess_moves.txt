@@ -1,0 +1,1 @@
+We can use 2D array to store possible chess moves.
