@@ -1,3 +1,5 @@
+Given a sample data, what are the ways to summarize them for exploratory data analysis?
+(ANS)
 Exploratory Data Analysis means analyzing the datasets to summarize their main characteristics, often visually.
 This is the first step of any data analysis.
 Objectives:
