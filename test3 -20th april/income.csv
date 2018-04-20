@@ -1,0 +1,14 @@
+Age,Employment,Marital Status,Gender,Income (Rs)
+25,Private,single,M,<5 Lakhs
+40,Govt,married,M,>5 Lakhs
+30,Private,single,F,>5 Lakhs
+60,Self Employed,single,F,<5 Lakhs
+20,Govt,single,M,<5 Lakhs
+50,Private,single,F,>5 Lakhs
+55,Self Employed,married,F,<5 Lakhs
+20,Govt,married,M,<5 Lakhs
+50,Private,single,F,>5 Lakhs
+32,Govt,,M,<5 Lakhs
+60,Self Employed,married,F,<5 Lakhs
+28,Private,single,F,<5 Lakhs
+30,Govt,married,M,>5 Lakhs
